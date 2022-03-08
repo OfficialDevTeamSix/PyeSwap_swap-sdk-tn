@@ -24,7 +24,7 @@ type ChainAddress = {
 }
 export const FACTORY_ADDRESS: ChainAddress = {
   [ChainId.MAINNET]: "0x2f080082f2b2DE0362a3c008c275DD2c9143e1E4",
-  [ChainId.TESTNET]: "0x9746084B12C095825B6838BCdAd641A9aF4Cc1cC"
+  [ChainId.TESTNET]: "0x6167a714CE2098e9e79D44336C22b13891a08A11"
 }
 
 export const INIT_CODE_HASH: ChainAddress = {
